@@ -1,6 +1,6 @@
-# Decentralized Voting Application
+# Decentralized Voting Application using NextJS
 
-This is a demo application to implement voting in solidity smart contract. 
+This is a demo application to implement voting in solidity smart contract and backend API in NextJS. 
 
 ## Installation
 
